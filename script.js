@@ -3,8 +3,7 @@ let saveBtn = $(".btn");
 let taskSect = $("#task-list");
 let today = dayjs().format("dddd, MMMM D YYYY");
 
-let date = new Date();
-let hour = date.getHours();
+let hour = dayjs().hour()
 
 // compares the time and provides the class names for styling
 function whatTime(currentTime, taskTime) {
