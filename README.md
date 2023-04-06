@@ -15,3 +15,7 @@ color coded to indicate whether that hour is in the present, past, or future.
 ## Image
 
 ![Image of work day planner](./images/work-day-scheduler.png)
+
+## Link to page
+
+https://willlasbury.github.io/work-day-scheduler/
